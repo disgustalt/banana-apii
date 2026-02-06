@@ -1,6 +1,9 @@
 ## Description
 An API that generates a custom welcome card.
 
+### URL
+`https://dash.bananabot.qzz.io/api/welcome-card`
+
 ## Params
 **Key:**
 - $\color{blue}{\text{Required}}$
