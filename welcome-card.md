@@ -18,3 +18,8 @@ An API that generates a custom welcome card.
 
 > [!NOTE]
 > All parameters **must** be URI encoded.
+
+
+
+## Preview
+![Preview Lmao](https://dash.bananabot.qzz.io/api/welcome-card?bg_type=image&bg_color=%23ffffff&avatar_url=https%3A%2F%2Fi.ibb.co%2FzTWF0St6%2Frickroll-roll.gif&text=hai&text_color=%23000000&bg_url=https%3A%2F%2Fi.ibb.co%2FzTWF0St6%2Frickroll-roll.gif)
