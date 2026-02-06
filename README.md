@@ -1,3 +1,3 @@
 | table | dis valid md? |
 | ----- | ----- |
-| $\color{green}{\text{oo}}$, lmao | heh, lol |
+| $\color{blue}{\text{oo}}$, lmao | heh, lol |
