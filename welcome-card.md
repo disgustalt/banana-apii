@@ -19,7 +19,7 @@ An API that generates a custom welcome card.
 | `?avatar_url` | $\color{blue}{\text{Query}}$ | The URL for the avatar image. |
 | `?avatar_border`| $\color{green}{\text{Query}}$ | A 24-bit HEX digit (with #) for the avatar border. |
 
-> [!NOTE]
+> [!IMPORTANT]
 > All parameters **must** be URI encoded.
 
 
